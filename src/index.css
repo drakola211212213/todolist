@@ -1,0 +1,17 @@
+.submit {
+    width: 93%;
+    height: 35px;
+    padding-left: 15px;
+}
+
+h2 {
+    text-align: center;
+}
+
+button {
+    float: right;
+}
+
+li {
+    color: gray;
+}
